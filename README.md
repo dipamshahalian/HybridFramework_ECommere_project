@@ -1,4 +1,4 @@
-Here's a well-structured and visually appealing **README** for your **HybridFramework_ECommerce_project**:  
+**HybridFramework_ECommerce_project**:  
 
 ---
 
