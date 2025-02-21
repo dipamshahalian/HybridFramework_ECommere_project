@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git 'https://github.com/yourusername/Selenium_Automation.git'
+                git 'https://github.com/dipamshahalian/HybridFramework_ECommere_project'
             }
         }
 
