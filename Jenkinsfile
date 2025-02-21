@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git 'https://github.com/dipamshahalian/HybridFramework_ECommere_project.git'
+                git branch: 'main', url: 'https://github.com/dipamshahalian/HybridFramework_ECommere_project.git'
             }
         }
         stage('Setup Python Environment') {
